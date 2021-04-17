@@ -1,0 +1,2 @@
+model_checkpoint_path: "checkpoint-sage49"
+all_model_checkpoint_paths: "checkpoint-sage49"
